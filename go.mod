@@ -1,6 +1,8 @@
-module github.com/hexdigest/bertlv
+module github.com/purehyperbole/bertlv
+
+go 1.16
 
 require (
-	github.com/gojuno/minimock v0.0.0-20190201083043-bbb4f602d884
+	github.com/gojuno/minimock/v3 v3.0.8
 	github.com/stretchr/testify v1.3.0
 )
